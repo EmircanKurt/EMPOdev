@@ -1,2 +1,2 @@
-Bu proje, halen geliştirme aşamasında olan bir video indirici uygulamasıdır. Şu anda Python veya Visual Studio Code üzerinden çalıştırılabilir. Ancak indirilen videolarda ses bulunmamaktadır; bu durum, ses verilerinin henüz tam olarak entegre edilmemiş olmasından kaynaklanmaktadır. Uygulamanın ses desteği üzerinde çalışmalarım devam ediyor. Geliştirme tamamlandığında, videolar hem görüntü hem de ses içerecek şekilde eksiksiz indirilebilecek. İlginiz ve sabrınız için teşekkür ederim.
+Bu proje, halen geliştirme aşamasında olan bir video indirici uygulamasıdır. Şu anda Python veya Visual Studio Code üzerinden çalıştırılabilir. Ancak indirilen videolarda ses bulunmaktadır.Eksiksiz indirilebilecek. İlginiz ve sabrınız için teşekkür ederim.
 
